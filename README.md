@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi I'm Trung Nguyen 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/trung-nguyen-6849a62b9/)
+[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:nguyentrung96dn@gmail.com)
 
 ## 🚀 About Me
-I am a Full Stack Developer with 4+ years of experience in developing enterprise applications and open-source software.
+Welcome to my profile! I am a Full Stack Developer with 4+ years of experience in developing enterprise applications and open-source software.
 
 ## 🛠️ Skills
 
