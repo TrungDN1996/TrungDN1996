@@ -1,6 +1,6 @@
 ### Hi I'm Trung Nguyen 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-trungnguyen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trung-nguyen-6849a62b9/)](https://www.linkedin.com/in/trung-nguyen-6849a62b9/)
+[![Linkedin Badge](https://img.shields.io/badge/-trungnguyen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trungnguyen-be)](https://www.linkedin.com/in/trungnguyen-be)
 [![Gmail Badge](https://img.shields.io/badge/-nguyentrung96dn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:nguyentrung96dn@gmail.com)
 
 ## 🚀 About Me
