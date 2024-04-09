@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-nguyentrung96dn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:nguyentrung96dn@gmail.com)
 
 ## 🚀 About Me
-Welcome to my profile! I am a Full Stack Developer with 4+ years of experience in developing enterprise applications and open-source software.
+Welcome to my profile! I am a Backend Developer with 4+ years of experience in developing enterprise applications and open-source software.
 
 ## 🛠️ Skills
 
@@ -26,9 +26,6 @@ Welcome to my profile! I am a Full Stack Developer with 4+ years of experience i
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-### Cloud
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 ### Linters
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
@@ -36,6 +33,8 @@ Welcome to my profile! I am a Full Stack Developer with 4+ years of experience i
 ### ORM
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
+### Cloud
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 ### Workflow Platforms
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-
